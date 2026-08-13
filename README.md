@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/durveshpawar2007-droid/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/durveshpawar2007-droid/DSA/tree/master/0075-sort-colors) |
+| [0643-maximum-average-subarray-i](https://github.com/durveshpawar2007-droid/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/durveshpawar2007-droid/DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/durveshpawar2007-droid/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
