@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/durveshpawar2007-droid/DSA/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/durveshpawar2007-droid/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/durveshpawar2007-droid/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/durveshpawar2007-droid/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/durveshpawar2007-droid/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/durveshpawar2007-droid/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/durveshpawar2007-droid/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/durveshpawar2007-droid/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
